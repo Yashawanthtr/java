@@ -1,7 +1,7 @@
-public class yashu
-{
-	public static void main(String args[])
+
+class yashu
 	{
-		System.out.println("hello world")
-	}
+    public static void main(String[] args) {
+        System.out.println("Try programiz.pro");
+    }
 }
