@@ -1,4 +1,4 @@
-public class hellow
+public class yashu
 {
 	public static void main(String args[])
 	{
